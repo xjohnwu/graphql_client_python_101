@@ -18,7 +18,7 @@ def test_query():
             name
           }
         }
-    """
+        """
     )
 
     # Execute the query on the transport
